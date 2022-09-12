@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="left">Oi Povo, Eu sou o <em>Jheferson Lima (Jhef)</em> </h1>
 
-<!--
-**Limajhef/Limajhef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ &nbsp;GitHub Analytics
 
-Here are some ideas to get you started:
+<div align="center">
+ <img width="430em" src="https://github-readme-stats.vercel.app/api?username=Limajhef&show_icons=true&theme=vision-friendly-dark" alt="Limajhef's stats"/>
+ <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limajhef&layout=compact&theme=vision-friendly-dark" alt="Limajhef's     most languages"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 &nbsp;Tech Stack  
+ <div>
+  <img align="center" alt="Jhef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jhef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jhef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jhef-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>   
+
+## &nbsp;Social Links
+<div>
+   <p align="left" style="background:yellow">
+      <a href="https://www.linkedin.com/in/jhefersonlima/" target="_blank">
+       <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+     </a>
+   </p>
+</div>
+
+##
+
